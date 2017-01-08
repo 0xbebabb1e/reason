@@ -1,0 +1,21 @@
+{
+    "author": "andrew.et@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "reason",
+    "pebble": {
+        "displayName": "Reason",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "2e842e9d-8ad2-4237-b79b-5f21e12dd7ae",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
